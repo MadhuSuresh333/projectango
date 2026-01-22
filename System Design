@@ -1,0 +1,16 @@
+Resume (PDF/Text)
+        |
+        v
+ Text Extraction
+        |
+        v
+ Embedding Generation
+        |
+        v
+ Job Description Embedding
+        |
+        v
+ Cosine Similarity Score
+        |
+        v
+ AI Explanation + Suggestions
