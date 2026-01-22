@@ -9,7 +9,7 @@ A full-stack web application that analyzes resumes and job descriptions using NL
 - REST API built with FastAPI
 - Simple frontend interface
 
-## Tech Stack
+## Tech Stack 
 - Python
 - FastAPI
 - OpenAI API
