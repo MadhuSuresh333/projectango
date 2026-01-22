@@ -1,0 +1,23 @@
+Backend
+
+Python
+
+FastAPI
+
+OpenAI / sentence-transformers (embeddings)
+
+scikit-learn (cosine similarity)
+
+Frontend
+
+React (or simple HTML + Tailwind if you prefer)
+
+Fetch API
+
+Extras (optional but impressive)
+
+Docker
+
+SQLite
+
+Deployed on Render / Railway / Vercel
