@@ -1,0 +1,10 @@
+ai-resume-matcher/
+├── backend/
+│   ├── main.py
+│   ├── resume_parser.py
+│   ├── matcher.py
+│   └── requirements.txt
+├── frontend/
+│   ├── index.html
+│   └── app.js
+└── README.md
