@@ -1,4 +1,4 @@
-Backend
+1. Backend:
 
 Python
 
@@ -8,16 +8,8 @@ OpenAI / sentence-transformers (embeddings)
 
 scikit-learn (cosine similarity)
 
-Frontend
+2. Frontend:
 
 React (or simple HTML + Tailwind if you prefer)
 
 Fetch API
-
-Extras (optional but impressive)
-
-Docker
-
-SQLite
-
-Deployed on Render / Railway / Vercel
