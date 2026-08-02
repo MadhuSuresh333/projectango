@@ -15,7 +15,7 @@ A full-stack web application that analyzes resumes and job descriptions using NL
 - OpenAI API
 - scikit-learn
 - HTML, JavaScript
-
+- 
 ## Project Structure
 ai-resume-matcher/
 ├── backend/
