@@ -5,7 +5,7 @@ A full-stack web application that analyzes resumes and job descriptions using NL
 ## Features
 - Resume PDF upload
 - Job description analysis
-- Semantic similarity scoring using AI embeddings
+- Semantic similarity scoring using AI embedddings
 - REST API built with FastAPI
 - Simple frontend interface
 
