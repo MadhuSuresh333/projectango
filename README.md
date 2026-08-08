@@ -1,6 +1,6 @@
 # AI Resume Analyzer & Job Match Scorer
 
-A full-stack web application that analyzes resumes and job descriptions using NLP embeddings to compute a semantic match score and provide actionable feedback.
+A full-stack web application that analyzes resumes and job descriptions using NLP embeddings to compute a semantic match score and provide. actionable feedback.
 
 ## Features
 - Resume PDF upload
